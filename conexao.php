@@ -1,7 +1,7 @@
 <?php  
 
 $dbserver = '127.0.0.1';  
-$bdUsuario = 'BREID';  
+$bdUsuario = 'livia';  
 $bdSenha = 'uGKa4sQfGqmKcZRZ';  
 $db = 'livia';  
 
