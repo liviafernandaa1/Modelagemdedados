@@ -8,12 +8,12 @@ Extensão MySQLi habilitada no servidor PHP
 Configuração da Conexão com o Banco de Dados
 Os dados de conexão com o banco de dados estão configurados no início do script:
 
-php
+$dbserver = '127.0.0.1';  
+$bdUsuario = 'livia';  
+$bdSenha = 'uGKa4sQfGqmKcZRZ';  
+$db = 'livia';  
 
-$dbserver = '127.0.0.1';
-$bdUsuario = 'BREID';
-$bdSenha = 'uGKa4sQfGqmKcZRZ';
-$db = 'livia';
+
 Certifique-se de atualizar esses valores de acordo com suas credenciais antes de utilizar o script.
 
 ## Funções Implementadas
